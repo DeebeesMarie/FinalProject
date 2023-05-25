@@ -1,0 +1,415 @@
+table, th, td{
+    border: 1px solid black;
+}
+table{
+    width: 100%;
+}
+.Hydrogen{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Helium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Lithium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Berylium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Boron{
+    background-color: yellow;
+    color: brown
+}
+.Carbon{
+    background-color: yellow;
+    color: brown
+}
+.Nitrogen{
+    background-color: yellow;
+    color: brown
+}
+.Oxygen{
+    background-color: yellow;
+    color: brown
+}
+.Florine{
+    background-color: yellow;
+    color: brown
+}
+.Neon{
+    background-color: yellow;
+    color: brown
+}
+.Sodium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Magnesium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Auminium{
+    background-color: yellow;
+    color: brown
+}
+.Silicon{
+    background-color: yellow;
+    color: brown
+}
+.Phosphorus{
+    background-color: yellow;
+    color: brown
+}
+.Sulphur{
+    background-color: yellow;
+    color: brown
+}
+.Chlorine{
+    background-color: yellow;
+    color: brown
+}
+.Argon{
+    background-color: yellow;
+    color: brown
+}
+.Potassium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Calcium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Scandium{
+    background-color: lightskyblue;
+}
+.Titanium{
+    background-color: lightskyblue;
+}
+.Vanadium{
+    background-color: lightskyblue;
+}
+.Cromium{
+    background-color: lightskyblue;
+}
+.Manganese{
+    background-color: lightskyblue;
+}
+.Iron{
+    background-color: lightskyblue;
+}
+.Cobalt{
+    background-color: lightskyblue;
+}
+.Nickel{
+    background-color: lightskyblue;
+}
+.Copper{
+    background-color: lightskyblue;
+}
+.Zinc{
+    background-color: lightskyblue;
+}
+.Gallium{
+    background-color: yellow;
+    color: brown
+}
+.Germanium{
+    background-color: yellow;
+    color: brown
+}
+.Arsenic{
+    background-color: yellow;
+    color: brown
+}
+.Selenium{
+    background-color: yellow;
+    color: brown
+}
+.Bromine{
+    background-color: yellow;
+    color: brown
+}
+.Krypton{
+    background-color: yellow;
+    color: brown
+}
+.Rubidium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Strontium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Yttrium{
+    background-color: lightskyblue;
+}
+.Zirconium{
+    background-color: lightskyblue;
+}
+.Niobium{
+    background-color: lightskyblue;
+}
+.Molybdenum{
+    background-color: lightskyblue;
+}
+.Technetium{
+    background-color: lightskyblue;
+}
+.Ruthenium{
+    background-color: lightskyblue;
+}
+.Rhodium{
+    background-color: lightskyblue;
+}
+.Palladium{
+    background-color: lightskyblue;
+}
+.Silver{
+    background-color: lightskyblue;
+}
+.Cadmium{
+    background-color: lightskyblue;
+}
+.Indium{
+    background-color: yellow;
+    color: brown
+}
+.Tin{
+    background-color: yellow;
+    color: brown
+}
+.Antimony{
+    background-color: yellow;
+    color: brown
+}
+.Tellerium{
+    background-color: yellow;
+    color: brown
+}
+.Iodine{
+    background-color: yellow;
+    color: brown
+}
+.Xenon{
+    background-color: yellow;
+    color: brown    
+}
+.Ceasium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Barium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Hafnium{
+    background-color: lightskyblue;
+}
+.Tantalum{
+    background-color: lightskyblue;
+}
+.Tungsten{
+    background-color: lightskyblue;
+}
+.Rhenium{
+    background-color: lightskyblue;
+}
+.Osmium{
+    background-color: lightskyblue;
+}
+.Iridium{
+    background-color: lightskyblue;
+}
+.Platium{
+    background-color: lightskyblue;
+}
+.Gold{
+    background-color: lightskyblue;
+}
+.Mercury{
+    background-color: lightskyblue;
+}
+.Thallium{
+    background-color: yellow;
+    color: brown 
+}
+.Lead{
+    background-color: yellow;
+    color: brown 
+}
+.Bismuth{
+    background-color: yellow;
+    color: brown 
+}
+.Polonium{
+    background-color: yellow;
+    color: brown 
+}
+.Astatine{
+    background-color: yellow;
+    color: brown 
+}
+.Radon{
+    background-color: yellow;
+    color: brown 
+}
+.Francium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Radium{
+    background-color: lightcoral;
+    color: yellow;
+}
+.Rutherfordium{
+    background-color: lightskyblue;
+
+}
+.Dubnium{
+    background-color: lightskyblue;
+}
+.Seaborgium{
+    background-color: lightskyblue;
+
+}
+.Bohrium{
+    background-color: lightskyblue;
+
+}
+.Hassium{
+    background-color: lightskyblue;
+
+}
+.Meitnerium{
+    background-color: lightskyblue;
+}
+.Darmstadtium{
+    background-color: lightskyblue;
+
+}
+.Roentgenium{
+    background-color: lightskyblue;
+}
+.Copernicium{
+    background-color: lightskyblue;
+}
+.Nihonium{
+    background-color: yellow;
+    color: brown 
+}
+.Flerovium{
+    background-color: yellow;
+    color: brown 
+}
+.Moscovium{
+    background-color: yellow;
+    color: brown 
+}
+.Livermorium{
+    background-color: yellow;
+    color: brown 
+}
+.Tennessine{
+    background-color: yellow;
+    color: brown 
+}
+.Oganesson{
+    background-color: yellow;
+    color: brown 
+}
+.Lanthanum{
+    background-color: greenyellow;
+}
+.Cerium{
+    background-color: greenyellow;
+}
+.Praseodymium{
+    background-color: greenyellow;
+}
+.Neodymium{
+    background-color: greenyellow;
+}
+.Promethium{
+    background-color: greenyellow;
+}
+.Samarium{
+    background-color: greenyellow;
+}
+.Europium{
+    background-color: greenyellow;
+}
+.Gadolinium{
+    background-color: greenyellow;
+}
+.Terbium{
+    background-color: greenyellow;
+}
+.Dysprosium{
+    background-color: greenyellow;
+}
+.Holmium{
+    background-color: greenyellow;
+}
+.Erbium{
+    background-color: greenyellow;
+}
+.Thulium{
+    background-color: greenyellow;
+}
+.Ytterbium{
+    background-color: greenyellow;
+}
+.Lutetium{
+    background-color: greenyellow;
+}
+.Actinium{
+    background-color: greenyellow;
+}
+.Thorium{
+    background-color: greenyellow;
+}
+.Protactinium{
+    background-color: greenyellow;
+}
+.Uranium{
+    background-color: greenyellow;
+}
+.Neptunium{
+    background-color: greenyellow;
+}
+.Plutonium{
+    background-color: greenyellow;
+}
+.Americium{
+    background-color: greenyellow;
+}
+.Curium{
+    background-color: greenyellow;
+}
+.Berkelium{
+    background-color: greenyellow;
+}
+.Californium{
+    background-color: greenyellow;
+}
+.Einsteinium{
+    background-color: greenyellow;
+}
+.Fermium{
+    background-color: greenyellow;
+}
+.Mendelevium{
+    background-color: greenyellow;
+}
+.Nobelium{
+    background-color: greenyellow;
+}
+.Lawrencium{
+    background-color: greenyellow;
+}
