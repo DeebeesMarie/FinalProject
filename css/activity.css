@@ -4,7 +4,7 @@
 body{
     background: #d5f3ff;}
 .carousel-item{
-    height: 80vh;
+    height: 50vh;
     min-height: 400px;
 }
 .carousel-caption{
