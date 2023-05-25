@@ -4,6 +4,11 @@ table, th, td{
 table{
     width: 100%;
 }
+body{
+
+    background: #d5f3ff;
+
+}
 .Hydrogen{
     background-color: lightcoral;
     color: yellow;
