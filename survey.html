@@ -1,0 +1,111 @@
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/survey.css">
+	<title>
+		Responsive Survey Form
+	</title>
+</head>
+
+<body>
+    <div class="container p-5 bg-light text-dark text-center">
+        <i class="bi bi-camera2"> 
+        <h1>SURVEY FORM</h1>
+          <p>For upcoming students in Cordova Public College</p></i>
+      </div>
+
+<!-- Create Form -->
+<form id="form">
+
+    <!-- Details -->
+    <div class="form-control">
+        <label for="name" id="label-name">
+            Name
+        </label>
+
+        <!-- Input Type Text -->
+        <input type="text" id="name" placeholder="Enter your name">
+    </div>
+
+    <div class="form-control">
+        <label for="email" id="label-email">
+            Email
+        </label>
+
+        <!-- Input Type Email-->
+        <input type="email" id="email" placeholder="Enter your email">
+    </div>
+
+    <div class="form-control">
+        <label for="age" id="label-age">
+            Age
+        </label>
+
+        <!-- Input Type Text -->
+        <input type="text" id="age" placeholder="Enter your age">
+    </div>
+
+    <div class="form-control">
+        <label for="role" id="label-role">
+            Which option best describes you?
+        </label>
+        
+        <!-- Dropdown options -->
+        <select name="role" id="role">
+            <option value="student">Freshmen</option>
+            <option value="intern">Regular Student</option>
+            <option value="professional">Returnee</option>
+            <option value="other">Transferee</option>
+        </select>
+    </div>
+
+    <div class="form-control">
+        <label>
+            Would you recommend CORDOVA PUBLIC COLLEGE to your friend?
+        </label>
+
+        <!-- Input Type Radio Button -->
+        <label for="recommed-1">
+            <input type="radio" id="recommed-1" name="recommed">Yes
+        </label>
+        <label for="recommed-2">
+            <input type="radio" id="recommed-2" name="recommed">No
+        </label>
+        <label for="recommed-3">
+            <input type="radio" id="recommed-3" name="recommed">Maybe
+        </label>
+    </div>
+
+    <div class="form-control">
+        <label>What courses do you consider to take?
+            <small>(Check all that apply)</small>
+        </label>
+        <!-- Input Type Checkbox -->
+        <label for="inp-1">
+            <input type="checkbox" name="inp">BEED</label>
+        <label for="inp-2">
+            <input type="checkbox" name="inp">BSED</label>
+        <label for="inp-3">
+            <input type="checkbox" name="inp">BSHM</label>
+        <label for="inp-4">
+            <input type="checkbox" name="inp">BSIT</label>
+    </div>
+
+    <div class="form-control">
+        <label for="comment">
+            Any comments  suggestions or feedbacks.
+        </label>
+
+        <!-- multi-line text input control -->
+        <textarea name="comment" id="comment" placeholder="Enter your comment here"></textarea>
+    </div>
+
+    <!-- Multi-line Text Input Control -->
+    <button class="btn btn-warning btn-lg btn-block mt-3">Submit</button>
+</form>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    </body>
+</html>
